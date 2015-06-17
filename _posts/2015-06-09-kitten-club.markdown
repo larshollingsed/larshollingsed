@@ -2,7 +2,7 @@
 layout: post
 title: "Let's talk about kittens"
 date: 2015-06-09 09:29:00
-categories: kittens pizza good-morning
+categories: kittens
 ---
 I like how kittens are tiny.
 

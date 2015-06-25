@@ -1,12 +1,10 @@
 # Site settings
-title: Piles of Kittens and Pizza
+title: Coding with Larz
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sometimes you just want to eat pizza and look at kittens.  It's human nature.
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  kittenznpizza
+github_username:  
 
 # Build settings
 markdown: redcarpet
